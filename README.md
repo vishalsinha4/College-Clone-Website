@@ -1,4 +1,4 @@
-#College Clone Onepager Website
+# College Clone Onepager Website
 
 This is a college clone website built using an HTML, CSS, and Bootstrap template. It is a one-page website intended to showcase the implementation of responsive design principles and Bootstrap's components. 
 
