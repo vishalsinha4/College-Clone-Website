@@ -17,8 +17,8 @@ This is a college clone website built using an HTML, CSS, and Bootstrap template
 
 ## Installation
 
-1. Clone the repository: `git clone https://github.com/your-username/college-clone-onepager.git`
-2. Navigate to the project directory: `cd college-clone-onepager`
+1. Clone the repository: `git clonehttps://github.com/uishalcinha/College-Clone-Website.git`
+2. Navigate to the project directory: `cd college-clone-Website`
 3. Open the `index.html` file in your web browser
 
 ## Usage
